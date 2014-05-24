@@ -5,7 +5,7 @@
 ;; Author: Hiroaki Otsu <ootsuhiroaki@gmail.com>
 ;; Keywords: tools, window manager
 ;; URL: https://github.com/aki2o/e2wm-sww
-;; Version: 0.0.1
+;; Version: 0.0.2
 ;; Package-Requires: ((e2wm "1.2"))
 
 ;; This program is free software; you can redistribute it and/or modify
@@ -359,4 +359,4 @@
 
 
 (provide 'e2wm-sww)
-;;; e2mw-sww.el ends here
+;;; e2wm-sww.el ends here
