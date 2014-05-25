@@ -12,7 +12,7 @@ This is a extension of Emacs that is a plugin of ![e2wm.el](https://github.com/k
 
 ### If use el-get.el
 
-2014/05/24 Now application
+2014/05/26 It's available. But, master branch only.
 
 ### If use auto-install.el
 
