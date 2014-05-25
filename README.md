@@ -8,7 +8,7 @@ This is a extension of Emacs that is a plugin of ![e2wm.el](https://github.com/k
 
 ### If use package.el
 
-2014/05/24 Now application
+2014/05/25 It's available by using melpa.
 
 ### If use el-get.el
 
