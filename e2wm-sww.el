@@ -163,7 +163,7 @@
       (let ((size (e2wm-sww::get-fit-length vorder)))
         (e2wm:message "SWW window resize %s to %s" (if vorder "width" "height") size)
         (wlf:window-resize wnd (not vorder) size))
-      (goto-char (point-min))
+      (goto-char (point-max))
       (set-window-point wnd (point)))
     (e2wm-sww::set-default-plugin wname wm)))
 
